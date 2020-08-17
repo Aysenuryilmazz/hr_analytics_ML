@@ -11,4 +11,27 @@ They have provided multiple attributes around Employee's past and current perfor
 
 The evaluation metric for this competition is F1 Score.
 
+In order to solve this problem, I applied 13 different classification algorithms:
+---
+- Decision Tree Classifier
+- Naive Bayes
+- SVM
+- k-NN
+- Logistic Regression
+
+Also, some ensemble models:
+- Random Forest
+- Bagging Meta Estimator
+- Extra Trees 
+- AdaBoost
+- CatBoost
+- LightGBM
+- Gradient Boosting
+- XGBoost
+
+Best three models are(with same f1-score): XGBoost, GradientBoosting and ExtraTrees. 
+After that; t-test is applied among these three models.
+
+
+
  
