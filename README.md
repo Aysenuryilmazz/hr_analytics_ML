@@ -31,8 +31,6 @@ Also, some ensemble models:
 
 Best three models are(with same f1-score): XGBoost, GradientBoosting and ExtraTrees.  
 
-After that; t-test is applied among these three models.
-
-
+After that; t-test is applied among these three models to find the "best one".
 
  
